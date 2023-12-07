@@ -11,5 +11,5 @@ def frequencies(items):
             frequencies[item] = 1
     return frequencies
 
-inputs = input("Enter to get things sorted: ")
-print(frequencies(inputs))
+# inputs = input("Enter to get things sorted: ")
+# print(frequencies(inputs))
